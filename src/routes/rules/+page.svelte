@@ -1,6 +1,7 @@
 <div class="bg-blue-50 min-h-screen p-4">
   <h1 class="text-5xl text-center text-blue-700 font-bold my-8">Rain City Book Bowl</h1>
   <p>Each RCBB event will consist of seven rounds of questions on all things literature! There will also be thematically-related songs played throughout the event!</p>
+  <p>Click <a href="sampleRCBBQs.pdf">here</a> to see a pack of sample questions.</p>
   <h2>LIGHTNING ROUND</h2>
   <p>This round consists of 20 "decode the emojis" puzzles, in which you have to match a sequence of emojis to a title. Your answers must be submitted in approximately 4 minutes.</p>
   <h2>BETTING ROUND</h2>
