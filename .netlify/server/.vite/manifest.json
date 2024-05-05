@@ -53,13 +53,22 @@
       "_ssr.js"
     ],
     "css": [
-      "_app/immutable/assets/_layout.DQpD5Hqv.css"
+      "_app/immutable/assets/_layout.S5iM2G2K.css"
     ]
   },
   "src/routes/+page.svelte": {
     "file": "entries/pages/_page.svelte.js",
     "name": "entries/pages/_page.svelte",
     "src": "src/routes/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_ssr.js"
+    ]
+  },
+  "src/routes/rules/+page.svelte": {
+    "file": "entries/pages/rules/_page.svelte.js",
+    "name": "entries/pages/rules/_page.svelte",
+    "src": "src/routes/rules/+page.svelte",
     "isEntry": true,
     "imports": [
       "_ssr.js"
